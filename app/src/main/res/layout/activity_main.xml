@@ -43,6 +43,7 @@
         android:layout_height="wrap_content"
         android:text="Login"
         android:layout_gravity="center"
+        android:backgroundTint="#00C4FF"
         android:layout_margin="10dp"
         />
 
@@ -61,7 +62,9 @@
         android:layout_height="wrap_content"
         android:text="Google Sign in"
         android:layout_gravity="center"
+        android:drawableLeft="@drawable/google"
         android:layout_margin="10dp"
+        android:backgroundTint="#9BA4B5"
         />
 
     <TextView
